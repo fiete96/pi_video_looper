@@ -5,9 +5,6 @@
 `cd pi_video_looper`  
 `sudo ./install.sh no_hello_video`
 
-Default player is omxplayer. Use the `no_hello_video` flag to install without the hello_video player (a bit faster to install):  
-`sudo ./install.sh no_hello_video`
-
 ## How to update
 An update is always like a fresh installation so you will loose custom changes made to the /boot/video_looper.ini   
 
